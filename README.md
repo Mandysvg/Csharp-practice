@@ -1,5 +1,5 @@
 # Csharp-practice
-My journey learning C-sharp using w3schools
+My journey learning C-sharp 
 
 ## 01 Helloworld
 This prints "hello World" to the console
